@@ -1,2 +1,4 @@
   language: java
-YAML
+ notifications:
+    slack: epsiic:ydO0tHcfELXXDUU2ea17gVqG
+ YAML
